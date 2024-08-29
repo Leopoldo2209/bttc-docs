@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3903],{6196:e=>{e.exports=JSON.parse('{"title":"Tokens","slug":"/category/tokens","permalink":"/docs/category/tokens","navigation":{"previous":{"title":"Assets","permalink":"/docs/category/assets"},"next":{"title":"Gas Token - BTT","permalink":"/docs/assets/tokens/gastoken-btt"}}}')}}]);

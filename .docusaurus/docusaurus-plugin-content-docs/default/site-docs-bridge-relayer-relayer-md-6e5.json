@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/relayer/relayer",
+  "id": "bridge/relayer/relayer",
+  "title": "What is Relayer",
+  "description": "Relayer is a kind of automatic cross-chain assets withdrawal service on Bittorrent Chain (BTTC).  After users send an order to transfer assets from BTTC to another block chain, relayer will automatically help users complete the withdrawal operation.",
+  "source": "@site/docs/bridge/relayer/relayer.md",
+  "sourceDirName": "bridge/relayer",
+  "slug": "/bridge/relayer/",
+  "permalink": "/docs/bridge/relayer/",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/relayer/relayer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Relayer",
+    "permalink": "/docs/category/relayer"
+  },
+  "next": {
+    "title": "Deploy Relayer Node",
+    "permalink": "/docs/bridge/relayer/relayerdeploy"
+  }
+}

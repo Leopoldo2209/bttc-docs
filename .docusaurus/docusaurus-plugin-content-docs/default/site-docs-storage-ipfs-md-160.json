@@ -1,0 +1,26 @@
+{
+  "unversionedId": "storage/ipfs",
+  "id": "storage/ipfs",
+  "title": "IPFS",
+  "description": "What is IPFS ?",
+  "source": "@site/docs/storage/ipfs.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/ipfs",
+  "permalink": "/docs/storage/ipfs",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/storage/ipfs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BTFS",
+    "permalink": "/docs/storage/btfs"
+  },
+  "next": {
+    "title": "General FAQ",
+    "permalink": "/docs/faq/general-faq"
+  }
+}

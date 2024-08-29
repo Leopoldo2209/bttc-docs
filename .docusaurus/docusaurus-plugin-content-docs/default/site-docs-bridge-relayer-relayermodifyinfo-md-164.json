@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/relayer/relayermodifyinfo",
+  "id": "bridge/relayer/relayermodifyinfo",
+  "title": "Modify Relayer Info",
+  "description": "If you want to modify your Relayer info after being approved as a Relayer, please send an email to bttc_support@bittorrent.com.",
+  "source": "@site/docs/bridge/relayer/relayermodifyinfo.md",
+  "sourceDirName": "bridge/relayer",
+  "slug": "/bridge/relayer/relayermodifyinfo",
+  "permalink": "/docs/bridge/relayer/relayermodifyinfo",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/relayer/relayermodifyinfo.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reserve Gas Fee",
+    "permalink": "/docs/bridge/relayer/relayerreservegasfee"
+  },
+  "next": {
+    "title": "Withdraw Relayer Pledge",
+    "permalink": "/docs/bridge/relayer/relayerwithdraw"
+  }
+}

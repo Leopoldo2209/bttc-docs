@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/deposit-checkpoint-event-tracking",
+  "id": "bridge/deposit-checkpoint-event-tracking",
+  "title": "Deposit and Checkpoint Time Tracking",
+  "description": "Deposit Event",
+  "source": "@site/docs/bridge/deposit-checkpoint-event-tracking.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/deposit-checkpoint-event-tracking",
+  "permalink": "/docs/bridge/deposit-checkpoint-event-tracking",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/deposit-checkpoint-event-tracking.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Withdraw Relayer Pledge",
+    "permalink": "/docs/bridge/relayer/relayerwithdraw"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/oracles/getting-started"
+  }
+}

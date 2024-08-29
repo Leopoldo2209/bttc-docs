@@ -1,0 +1,15 @@
+{
+  "title": "NFTs",
+  "slug": "/category/nfts",
+  "permalink": "/docs/category/nfts",
+  "navigation": {
+    "previous": {
+      "title": "Mapped Tokens",
+      "permalink": "/docs/assets/tokens/mappedtokens"
+    },
+    "next": {
+      "title": "BTTC NFT Tutorial",
+      "permalink": "/docs/assets/nfts/BTTC-NFT-Tutorial"
+    }
+  }
+}

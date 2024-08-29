@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/relayer/relayerreservegasfee",
+  "id": "bridge/relayer/relayerreservegasfee",
+  "title": "Reserve Gas Fee",
+  "description": "Why do I need to reserve enough tokens for the gas fee?",
+  "source": "@site/docs/bridge/relayer/relayerreservegasfee.md",
+  "sourceDirName": "bridge/relayer",
+  "slug": "/bridge/relayer/relayerreservegasfee",
+  "permalink": "/docs/bridge/relayer/relayerreservegasfee",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/relayer/relayerreservegasfee.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Use BTT as Relayer Pledge",
+    "permalink": "/docs/bridge/relayer/relayerdeposit"
+  },
+  "next": {
+    "title": "Modify Relayer Info",
+    "permalink": "/docs/bridge/relayer/relayermodifyinfo"
+  }
+}

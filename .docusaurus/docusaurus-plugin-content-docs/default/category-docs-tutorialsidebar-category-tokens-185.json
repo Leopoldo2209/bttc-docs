@@ -1,0 +1,15 @@
+{
+  "title": "Tokens",
+  "slug": "/category/tokens",
+  "permalink": "/docs/category/tokens",
+  "navigation": {
+    "previous": {
+      "title": "Assets",
+      "permalink": "/docs/category/assets"
+    },
+    "next": {
+      "title": "Gas Token - BTT",
+      "permalink": "/docs/assets/tokens/gastoken-btt"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/glossary",
+  "id": "validator/glossary",
+  "title": "Glossary",
+  "description": "Block producer",
+  "source": "@site/docs/validator/glossary.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/glossary",
+  "permalink": "/docs/validator/glossary",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/glossary.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Commission Operations",
+    "permalink": "/docs/validator/validator-commission-operations"
+  },
+  "next": {
+    "title": "Validator FAQ",
+    "permalink": "/docs/faq/validator-faq"
+  }
+}

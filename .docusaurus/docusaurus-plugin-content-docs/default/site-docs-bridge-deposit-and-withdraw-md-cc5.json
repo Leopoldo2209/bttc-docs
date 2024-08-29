@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/deposit-and-withdraw",
+  "id": "bridge/deposit-and-withdraw",
+  "title": "Token Deposit & Withdraw",
+  "description": "Using ERC-20 as an example, the process for topping up is:",
+  "source": "@site/docs/bridge/deposit-and-withdraw.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/deposit-and-withdraw",
+  "permalink": "/docs/bridge/deposit-and-withdraw",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/deposit-and-withdraw.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assets Mapping",
+    "permalink": "/docs/bridge/assets-mapping"
+  },
+  "next": {
+    "title": "Relayer",
+    "permalink": "/docs/category/relayer"
+  }
+}

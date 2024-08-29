@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/relayer/relayerdeposit",
+  "id": "bridge/relayer/relayerdeposit",
+  "title": "Use BTT as Relayer Pledge",
+  "description": "Relayers are of great importance on BTTC, especially for cross-chain transfers and asset liquidity. Therefore, pledge plays an indispensable role in ensuring that Relayers perform their duties in accordance with the terms.",
+  "source": "@site/docs/bridge/relayer/relayerdeposit.md",
+  "sourceDirName": "bridge/relayer",
+  "slug": "/bridge/relayer/relayerdeposit",
+  "permalink": "/docs/bridge/relayer/relayerdeposit",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/relayer/relayerdeposit.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Relayer User Guide",
+    "permalink": "/docs/bridge/relayer/relayerguide"
+  },
+  "next": {
+    "title": "Reserve Gas Fee",
+    "permalink": "/docs/bridge/relayer/relayerreservegasfee"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "assets/nfts/BTTC-NFT-Tutorial",
+  "id": "assets/nfts/BTTC-NFT-Tutorial",
+  "title": "BTTC NFT Tutorial",
+  "description": "Please refer to Simple NFT Example on BTTC Donau Testnet to check how to build, mint, and send around your own ERC721 with BTTC Donau testnet!",
+  "source": "@site/docs/assets/nfts/BTTC-NFT-Tutorial.md",
+  "sourceDirName": "assets/nfts",
+  "slug": "/assets/nfts/BTTC-NFT-Tutorial",
+  "permalink": "/docs/assets/nfts/BTTC-NFT-Tutorial",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/assets/nfts/BTTC-NFT-Tutorial.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NFTs",
+    "permalink": "/docs/category/nfts"
+  },
+  "next": {
+    "title": "Deploy Contract with Remix",
+    "permalink": "/docs/smartcontract/deploy-contracts"
+  }
+}

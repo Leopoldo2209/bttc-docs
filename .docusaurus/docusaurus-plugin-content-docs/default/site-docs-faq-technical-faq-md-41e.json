@@ -1,0 +1,26 @@
+{
+  "unversionedId": "faq/technical-faq",
+  "id": "faq/technical-faq",
+  "title": "Technical FAQ",
+  "description": "1. Are the private keys same for delivery and bttc keystore?",
+  "source": "@site/docs/faq/technical-faq.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/technical-faq",
+  "permalink": "/docs/faq/technical-faq",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/faq/technical-faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "faqSidebar",
+  "previous": {
+    "title": "General FAQ",
+    "permalink": "/docs/faq/general-faq"
+  },
+  "next": {
+    "title": "Delegator FAQ",
+    "permalink": "/docs/faq/delegate-faq"
+  }
+}

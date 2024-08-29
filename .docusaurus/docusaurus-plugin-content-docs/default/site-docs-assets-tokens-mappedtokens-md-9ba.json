@@ -1,0 +1,26 @@
+{
+  "unversionedId": "assets/tokens/mappedtokens",
+  "id": "assets/tokens/mappedtokens",
+  "title": "Mapped Tokens",
+  "description": "If you want to get your token mapped then please send your mapping request via Token Mapping.",
+  "source": "@site/docs/assets/tokens/mappedtokens.md",
+  "sourceDirName": "assets/tokens",
+  "slug": "/assets/tokens/mappedtokens",
+  "permalink": "/docs/assets/tokens/mappedtokens",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/assets/tokens/mappedtokens.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gas Token - BTT",
+    "permalink": "/docs/assets/tokens/gastoken-btt"
+  },
+  "next": {
+    "title": "NFTs",
+    "permalink": "/docs/category/nfts"
+  }
+}

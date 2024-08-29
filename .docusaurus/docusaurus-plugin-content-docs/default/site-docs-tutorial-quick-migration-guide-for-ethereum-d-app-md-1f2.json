@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial/quick-migration-guide-for-ethereum-dApp",
+  "id": "tutorial/quick-migration-guide-for-ethereum-dApp",
+  "title": "Quick Migration Guide for Ethereum DApp",
+  "description": "In order to help developers migrating Ethereum DApp to BTTC network in an easier way, we will take Uniswap as an example, introduce how to migrate both DApp contracts and the frontend UI using the Ethereum IDE - Remix.",
+  "source": "@site/docs/tutorial/quick-migration-guide-for-ethereum-dApp.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/quick-migration-guide-for-ethereum-dApp",
+  "permalink": "/docs/tutorial/quick-migration-guide-for-ethereum-dApp",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/tutorial/quick-migration-guide-for-ethereum-dApp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build a Web3 App On BTTC",
+    "permalink": "/docs/tutorial/build-web3-app"
+  },
+  "next": {
+    "title": "Wallet",
+    "permalink": "/docs/wallet"
+  }
+}

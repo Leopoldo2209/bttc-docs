@@ -1,0 +1,26 @@
+{
+  "unversionedId": "assets/tokens/gastoken-btt",
+  "id": "assets/tokens/gastoken-btt",
+  "title": "Gas Token - BTT",
+  "description": "BitTorrent token(BTT) is a cryptocurrency that is the native token of the Bittorrent-Chain (BTTC). Similar to Ether (ETH) to Ethereum, BTT is the engine that powers BTTC. No matter sending BTT or calling the smart contract of BTTC, users need to pay in BTT as gas fee to use the BTTC network. This fee acts as an incentive to reward block producers for processing and validating the action you want to perform.",
+  "source": "@site/docs/assets/tokens/gastoken-btt.md",
+  "sourceDirName": "assets/tokens",
+  "slug": "/assets/tokens/gastoken-btt",
+  "permalink": "/docs/assets/tokens/gastoken-btt",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/assets/tokens/gastoken-btt.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tokens",
+    "permalink": "/docs/category/tokens"
+  },
+  "next": {
+    "title": "Mapped Tokens",
+    "permalink": "/docs/assets/tokens/mappedtokens"
+  }
+}

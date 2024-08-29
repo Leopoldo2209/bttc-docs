@@ -1,0 +1,26 @@
+{
+  "unversionedId": "faq/validator-faq",
+  "id": "faq/validator-faq",
+  "title": "Validator FAQ",
+  "description": "1. How to set up a validator node on the mainnet?",
+  "source": "@site/docs/faq/validator-faq.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/validator-faq",
+  "permalink": "/docs/faq/validator-faq",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/faq/validator-faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "faqSidebar",
+  "previous": {
+    "title": "Delegator FAQ",
+    "permalink": "/docs/faq/delegate-faq"
+  },
+  "next": {
+    "title": "Staking FAQ",
+    "permalink": "/docs/faq/staking-faq"
+  }
+}

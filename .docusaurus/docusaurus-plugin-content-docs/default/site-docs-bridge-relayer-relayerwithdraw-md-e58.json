@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/relayer/relayerwithdraw",
+  "id": "bridge/relayer/relayerwithdraw",
+  "title": "Withdraw Relayer Pledge",
+  "description": "How can I withdraw my pledge?",
+  "source": "@site/docs/bridge/relayer/relayerwithdraw.md",
+  "sourceDirName": "bridge/relayer",
+  "slug": "/bridge/relayer/relayerwithdraw",
+  "permalink": "/docs/bridge/relayer/relayerwithdraw",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/relayer/relayerwithdraw.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modify Relayer Info",
+    "permalink": "/docs/bridge/relayer/relayermodifyinfo"
+  },
+  "next": {
+    "title": "Deposit and Checkpoint Time Tracking",
+    "permalink": "/docs/bridge/deposit-checkpoint-event-tracking"
+  }
+}

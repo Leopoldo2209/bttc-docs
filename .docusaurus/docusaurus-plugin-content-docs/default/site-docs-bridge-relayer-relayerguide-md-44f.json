@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/relayer/relayerguide",
+  "id": "bridge/relayer/relayerguide",
+  "title": "Relayer User Guide",
+  "description": "1. Add the BTT pledge",
+  "source": "@site/docs/bridge/relayer/relayerguide.md",
+  "sourceDirName": "bridge/relayer",
+  "slug": "/bridge/relayer/relayerguide",
+  "permalink": "/docs/bridge/relayer/relayerguide",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/relayer/relayerguide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy Relayer Node",
+    "permalink": "/docs/bridge/relayer/relayerdeploy"
+  },
+  "next": {
+    "title": "Use BTT as Relayer Pledge",
+    "permalink": "/docs/bridge/relayer/relayerdeposit"
+  }
+}

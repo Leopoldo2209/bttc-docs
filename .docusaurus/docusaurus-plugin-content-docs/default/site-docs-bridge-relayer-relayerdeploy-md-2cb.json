@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/relayer/relayerdeploy",
+  "id": "bridge/relayer/relayerdeploy",
+  "title": "Deploy Relayer Node",
+  "description": "* Deploy Relayer Node",
+  "source": "@site/docs/bridge/relayer/relayerdeploy.md",
+  "sourceDirName": "bridge/relayer",
+  "slug": "/bridge/relayer/relayerdeploy",
+  "permalink": "/docs/bridge/relayer/relayerdeploy",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/relayer/relayerdeploy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Relayer",
+    "permalink": "/docs/bridge/relayer/"
+  },
+  "next": {
+    "title": "Relayer User Guide",
+    "permalink": "/docs/bridge/relayer/relayerguide"
+  }
+}

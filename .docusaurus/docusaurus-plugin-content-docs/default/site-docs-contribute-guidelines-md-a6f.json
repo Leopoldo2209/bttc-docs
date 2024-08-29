@@ -1,0 +1,18 @@
+{
+  "unversionedId": "contribute/guidelines",
+  "id": "contribute/guidelines",
+  "title": "How to Contribute",
+  "description": "Bittorrent-Chain (BTTC) is a decentralized autonomous open-source project, which needs the support of contributors to achieve governance and development.",
+  "source": "@site/docs/contribute/guidelines.md",
+  "sourceDirName": "contribute",
+  "slug": "/contribute/guidelines",
+  "permalink": "/docs/contribute/guidelines",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/contribute/guidelines.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "contribute"
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/assets-mapping",
+  "id": "bridge/assets-mapping",
+  "title": "Assets Mapping",
+  "description": "Mapping is an important step in the cross-chain transfer of assets. Mapping is the use of smart contracts on two networks (e.g. TRON and BTTC) to match assets one to the other, facilitating operations such as locking, destroying and transferring.",
+  "source": "@site/docs/bridge/assets-mapping.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/assets-mapping",
+  "permalink": "/docs/bridge/assets-mapping",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/assets-mapping.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/bridge/overview"
+  },
+  "next": {
+    "title": "Token Deposit & Withdraw",
+    "permalink": "/docs/bridge/deposit-and-withdraw"
+  }
+}

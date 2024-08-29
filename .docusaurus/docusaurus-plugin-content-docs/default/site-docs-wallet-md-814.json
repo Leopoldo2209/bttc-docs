@@ -1,0 +1,26 @@
+{
+  "unversionedId": "wallet",
+  "id": "wallet",
+  "title": "Wallet",
+  "description": "Wallets are used by the client to manage your dApp integration on BTTC. There are two main types of wallets used in the BTTC ecosystem:",
+  "source": "@site/docs/wallet.md",
+  "sourceDirName": ".",
+  "slug": "/wallet",
+  "permalink": "/docs/wallet",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/wallet.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Migration Guide for Ethereum DApp",
+    "permalink": "/docs/tutorial/quick-migration-guide-for-ethereum-dApp"
+  },
+  "next": {
+    "title": "Network Details",
+    "permalink": "/docs/networks/network"
+  }
+}

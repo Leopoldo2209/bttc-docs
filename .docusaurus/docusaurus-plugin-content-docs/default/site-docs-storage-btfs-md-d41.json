@@ -1,0 +1,26 @@
+{
+  "unversionedId": "storage/btfs",
+  "id": "storage/btfs",
+  "title": "BTFS",
+  "description": "Compared with blockchains such as Ethereum, BTTC has the characteristics of low transaction fees, fast transaction speed, and high throughput, but limited by block size, transaction rate, etc., it still lacks cost-effective, scalable, and high-performance file storage and sharing solutions. One of the solutions to these problems is the BTFS file system.",
+  "source": "@site/docs/storage/btfs.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/btfs",
+  "permalink": "/docs/storage/btfs",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/storage/btfs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/oracles/getting-started"
+  },
+  "next": {
+    "title": "IPFS",
+    "permalink": "/docs/storage/ipfs"
+  }
+}

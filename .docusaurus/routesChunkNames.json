@@ -1,0 +1,346 @@
+{
+  "/search-8cf": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "94add0b1"
+    }
+  },
+  "/docs-74f": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "40eca272"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/architecture/arch-85e": {
+    "__comp": "17896441",
+    "content": "9077b7d9"
+  },
+  "/docs/assets/nfts/BTTC-NFT-Tutorial-6a2": {
+    "__comp": "17896441",
+    "content": "9d320db0"
+  },
+  "/docs/assets/tokens/gastoken-btt-830": {
+    "__comp": "17896441",
+    "content": "adb819cb"
+  },
+  "/docs/assets/tokens/mappedtokens-0b9": {
+    "__comp": "17896441",
+    "content": "9baa96f1"
+  },
+  "/docs/basics/blockchain-basics/basics-accounts-2f0": {
+    "__comp": "17896441",
+    "content": "4f3e1628"
+  },
+  "/docs/basics/blockchain-basics/basics-blockchain-5f9": {
+    "__comp": "17896441",
+    "content": "bf5b79ed"
+  },
+  "/docs/basics/blockchain-basics/basics-blockchain-types-f32": {
+    "__comp": "17896441",
+    "content": "3022b549"
+  },
+  "/docs/basics/blockchain-basics/basics-consensus-mechanism-4cf": {
+    "__comp": "17896441",
+    "content": "0c40eb32"
+  },
+  "/docs/basics/blockchain-basics/basics-ethereum-669": {
+    "__comp": "17896441",
+    "content": "b8dc475e"
+  },
+  "/docs/basics/blockchain-basics/basics-gas-72c": {
+    "__comp": "17896441",
+    "content": "283554f8"
+  },
+  "/docs/basics/blockchain-basics/basics-solidity-c23": {
+    "__comp": "17896441",
+    "content": "a802f16c"
+  },
+  "/docs/basics/blockchain-basics/basics-transactions-e91": {
+    "__comp": "17896441",
+    "content": "930b15ad"
+  },
+  "/docs/basics/bttc-basics/bttc-pos-architecture-20b": {
+    "__comp": "17896441",
+    "content": "7b27d897"
+  },
+  "/docs/basics/bttc-basics/what-is-bttc-09c": {
+    "__comp": "17896441",
+    "content": "a4851071"
+  },
+  "/docs/basics/bttc-basics/what-is-proof-of-stake-6b8": {
+    "__comp": "17896441",
+    "content": "e3f02192"
+  },
+  "/docs/basics/bttc-basics/who-is-a-delegator-5e8": {
+    "__comp": "17896441",
+    "content": "ed1acb9f"
+  },
+  "/docs/basics/bttc-basics/who-is-a-validator-067": {
+    "__comp": "17896441",
+    "content": "2a45578f"
+  },
+  "/docs/bridge/asset-map-188": {
+    "__comp": "17896441",
+    "content": "680fb2df"
+  },
+  "/docs/bridge/assets-mapping-a3f": {
+    "__comp": "17896441",
+    "content": "b6cf468d"
+  },
+  "/docs/bridge/deposit-and-withdraw-beb": {
+    "__comp": "17896441",
+    "content": "cc528471"
+  },
+  "/docs/bridge/deposit-checkpoint-event-tracking-136": {
+    "__comp": "17896441",
+    "content": "55e19644"
+  },
+  "/docs/bridge/overview-e7f": {
+    "__comp": "17896441",
+    "content": "fc863a22"
+  },
+  "/docs/bridge/relayer/-757": {
+    "__comp": "17896441",
+    "content": "6e59ee0e"
+  },
+  "/docs/bridge/relayer/relayerdeploy-4dd": {
+    "__comp": "17896441",
+    "content": "2cb9161e"
+  },
+  "/docs/bridge/relayer/relayerdeposit-bcf": {
+    "__comp": "17896441",
+    "content": "6e90d698"
+  },
+  "/docs/bridge/relayer/relayerguide-61d": {
+    "__comp": "17896441",
+    "content": "44fbede9"
+  },
+  "/docs/bridge/relayer/relayermodifyinfo-255": {
+    "__comp": "17896441",
+    "content": "164156a8"
+  },
+  "/docs/bridge/relayer/relayerreservegasfee-816": {
+    "__comp": "17896441",
+    "content": "c40c86f7"
+  },
+  "/docs/bridge/relayer/relayerwithdraw-d8e": {
+    "__comp": "17896441",
+    "content": "e58b9fc8"
+  },
+  "/docs/bridge/state-transfer-a07": {
+    "__comp": "17896441",
+    "content": "eb5fb3e5"
+  },
+  "/docs/category/assets-f2b": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "52be48e5"
+  },
+  "/docs/category/nfts-5fb": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "cbb9e17b"
+  },
+  "/docs/category/relayer-ed4": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7531bc02"
+  },
+  "/docs/category/tokens-0b6": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7e39bd56"
+  },
+  "/docs/contribute/guidelines-dbf": {
+    "__comp": "17896441",
+    "content": "a6f3e364"
+  },
+  "/docs/delegator/contract-881": {
+    "__comp": "17896441",
+    "content": "d170cb67"
+  },
+  "/docs/delegator/how-to-delegate-424": {
+    "__comp": "17896441",
+    "content": "46ff8d0d"
+  },
+  "/docs/faq-e60": {
+    "__comp": "17896441",
+    "content": "0480b142"
+  },
+  "/docs/faq/delegate-faq-cde": {
+    "__comp": "17896441",
+    "content": "e2ab717d"
+  },
+  "/docs/faq/general-faq-4c3": {
+    "__comp": "17896441",
+    "content": "804650be"
+  },
+  "/docs/faq/staking-faq-eb2": {
+    "__comp": "17896441",
+    "content": "2c67cff0"
+  },
+  "/docs/faq/technical-faq-7a9": {
+    "__comp": "17896441",
+    "content": "41e329aa"
+  },
+  "/docs/faq/validator-faq-df5": {
+    "__comp": "17896441",
+    "content": "c801c43d"
+  },
+  "/docs/governance/govern-4af": {
+    "__comp": "17896441",
+    "content": "1888ad46"
+  },
+  "/docs/greeting-59a": {
+    "__comp": "17896441",
+    "content": "17950e23"
+  },
+  "/docs/intro-e84": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/networks/network-019": {
+    "__comp": "17896441",
+    "content": "06d47b1a"
+  },
+  "/docs/node/build-fullnode-9eb": {
+    "__comp": "17896441",
+    "content": "e88404a7"
+  },
+  "/docs/node/build-validator-node-128": {
+    "__comp": "17896441",
+    "content": "f82fb95a"
+  },
+  "/docs/node/snapshot-7c2": {
+    "__comp": "17896441",
+    "content": "d3f6a25e"
+  },
+  "/docs/oracles/getting-started-217": {
+    "__comp": "17896441",
+    "content": "d48c3950"
+  },
+  "/docs/quickstart-e30": {
+    "__comp": "17896441",
+    "content": "8070e160"
+  },
+  "/docs/smartcontract/deploy-contracts-a16": {
+    "__comp": "17896441",
+    "content": "6d075b1f"
+  },
+  "/docs/smartcontract/genesis-contracts-89e": {
+    "__comp": "17896441",
+    "content": "5551c2f4"
+  },
+  "/docs/storage/btfs-073": {
+    "__comp": "17896441",
+    "content": "d411f46d"
+  },
+  "/docs/storage/ipfs-cf9": {
+    "__comp": "17896441",
+    "content": "160d7018"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-d64": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/docs/tutorial-extras/translate-your-site-16a": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/docs/tutorial/build-web3-app-401": {
+    "__comp": "17896441",
+    "content": "4dc370e7"
+  },
+  "/docs/tutorial/quick-migration-guide-for-ethereum-dApp-d51": {
+    "__comp": "17896441",
+    "content": "1f22aa0c"
+  },
+  "/docs/validator/build-validator-node-818": {
+    "__comp": "17896441",
+    "content": "320c6d40"
+  },
+  "/docs/validator/change-signer-address-f5d": {
+    "__comp": "17896441",
+    "content": "ab545aae"
+  },
+  "/docs/validator/core-components/bttc-layer-6db": {
+    "__comp": "17896441",
+    "content": "d13b0664"
+  },
+  "/docs/validator/core-components/checkpoint-d19": {
+    "__comp": "17896441",
+    "content": "406bc5f5"
+  },
+  "/docs/validator/core-components/delivery-layer-426": {
+    "__comp": "17896441",
+    "content": "41fc5120"
+  },
+  "/docs/validator/core-components/derivatives-921": {
+    "__comp": "17896441",
+    "content": "1fb6af6d"
+  },
+  "/docs/validator/core-components/key-management-9e0": {
+    "__comp": "17896441",
+    "content": "0e652a73"
+  },
+  "/docs/validator/core-components/proposer-bonus-ae9": {
+    "__comp": "17896441",
+    "content": "36c86a81"
+  },
+  "/docs/validator/core-components/proposer-producer-selection-a4e": {
+    "__comp": "17896441",
+    "content": "f7c8cf3c"
+  },
+  "/docs/validator/core-components/staking-a21": {
+    "__comp": "17896441",
+    "content": "a9001c88"
+  },
+  "/docs/validator/core-components/state-sync-mechanism-423": {
+    "__comp": "17896441",
+    "content": "ee2ba469"
+  },
+  "/docs/validator/core-components/transaction-fees-959": {
+    "__comp": "17896441",
+    "content": "a872163a"
+  },
+  "/docs/validator/getting-started-92b": {
+    "__comp": "17896441",
+    "content": "7b2014cd"
+  },
+  "/docs/validator/glossary-eca": {
+    "__comp": "17896441",
+    "content": "f1a158f0"
+  },
+  "/docs/validator/overview-e74": {
+    "__comp": "17896441",
+    "content": "28682005"
+  },
+  "/docs/validator/port_management-05b": {
+    "__comp": "17896441",
+    "content": "527118a5"
+  },
+  "/docs/validator/responsibilities-8c2": {
+    "__comp": "17896441",
+    "content": "ea60374b"
+  },
+  "/docs/validator/rewards-1e2": {
+    "__comp": "17896441",
+    "content": "6d7cc108"
+  },
+  "/docs/validator/staking-619": {
+    "__comp": "17896441",
+    "content": "b992f66d"
+  },
+  "/docs/validator/validator-commission-operations-a49": {
+    "__comp": "17896441",
+    "content": "6e58937e"
+  },
+  "/docs/wallet-479": {
+    "__comp": "17896441",
+    "content": "814ed689"
+  },
+  "/-878": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "1ba27c06"
+    },
+    "config": "5e9f5e1a"
+  }
+}

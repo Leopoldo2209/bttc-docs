@@ -1,0 +1,26 @@
+{
+  "unversionedId": "oracles/getting-started",
+  "id": "oracles/getting-started",
+  "title": "Getting Started",
+  "description": "There is often a need for smart contracts to access contract-related information from the outside world. However, smart contracts cannot obtain external data outside of the blockchain network. To solve this problem, an oracle provides a way for blockchains or smart contracts to interact with external data.",
+  "source": "@site/docs/oracles/getting-started.md",
+  "sourceDirName": "oracles",
+  "slug": "/oracles/getting-started",
+  "permalink": "/docs/oracles/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/oracles/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1724138736,
+  "formattedLastUpdatedAt": "Aug 20, 2024",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deposit and Checkpoint Time Tracking",
+    "permalink": "/docs/bridge/deposit-checkpoint-event-tracking"
+  },
+  "next": {
+    "title": "BTFS",
+    "permalink": "/docs/storage/btfs"
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "quickstart",
+          "docs": [
+            {
+              "id": "architecture/arch",
+              "path": "/docs/architecture/arch",
+              "sidebar": "architecture"
+            },
+            {
+              "id": "assets/nfts/BTTC-NFT-Tutorial",
+              "path": "/docs/assets/nfts/BTTC-NFT-Tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "assets/tokens/gastoken-btt",
+              "path": "/docs/assets/tokens/gastoken-btt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "assets/tokens/mappedtokens",
+              "path": "/docs/assets/tokens/mappedtokens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-accounts",
+              "path": "/docs/basics/blockchain-basics/basics-accounts",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-blockchain",
+              "path": "/docs/basics/blockchain-basics/basics-blockchain",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-blockchain-types",
+              "path": "/docs/basics/blockchain-basics/basics-blockchain-types",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-consensus-mechanism",
+              "path": "/docs/basics/blockchain-basics/basics-consensus-mechanism",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-ethereum",
+              "path": "/docs/basics/blockchain-basics/basics-ethereum",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-gas",
+              "path": "/docs/basics/blockchain-basics/basics-gas",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-solidity",
+              "path": "/docs/basics/blockchain-basics/basics-solidity",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/blockchain-basics/basics-transactions",
+              "path": "/docs/basics/blockchain-basics/basics-transactions"
+            },
+            {
+              "id": "basics/bttc-basics/bttc-pos-architecture",
+              "path": "/docs/basics/bttc-basics/bttc-pos-architecture",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/bttc-basics/what-is-bttc",
+              "path": "/docs/basics/bttc-basics/what-is-bttc",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/bttc-basics/what-is-proof-of-stake",
+              "path": "/docs/basics/bttc-basics/what-is-proof-of-stake",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/bttc-basics/who-is-a-delegator",
+              "path": "/docs/basics/bttc-basics/who-is-a-delegator",
+              "sidebar": "basics"
+            },
+            {
+              "id": "basics/bttc-basics/who-is-a-validator",
+              "path": "/docs/basics/bttc-basics/who-is-a-validator",
+              "sidebar": "basics"
+            },
+            {
+              "id": "bridge/asset-map",
+              "path": "/docs/bridge/asset-map"
+            },
+            {
+              "id": "bridge/assets-mapping",
+              "path": "/docs/bridge/assets-mapping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/deposit-and-withdraw",
+              "path": "/docs/bridge/deposit-and-withdraw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/deposit-checkpoint-event-tracking",
+              "path": "/docs/bridge/deposit-checkpoint-event-tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/overview",
+              "path": "/docs/bridge/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/relayer/relayer",
+              "path": "/docs/bridge/relayer/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/relayer/relayerdeploy",
+              "path": "/docs/bridge/relayer/relayerdeploy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/relayer/relayerdeposit",
+              "path": "/docs/bridge/relayer/relayerdeposit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/relayer/relayerguide",
+              "path": "/docs/bridge/relayer/relayerguide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/relayer/relayermodifyinfo",
+              "path": "/docs/bridge/relayer/relayermodifyinfo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/relayer/relayerreservegasfee",
+              "path": "/docs/bridge/relayer/relayerreservegasfee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/relayer/relayerwithdraw",
+              "path": "/docs/bridge/relayer/relayerwithdraw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bridge/state-transfer",
+              "path": "/docs/bridge/state-transfer"
+            },
+            {
+              "id": "contribute/guidelines",
+              "path": "/docs/contribute/guidelines",
+              "sidebar": "contribute"
+            },
+            {
+              "id": "delegator/contract",
+              "path": "/docs/delegator/contract",
+              "sidebar": "delegator"
+            },
+            {
+              "id": "delegator/how-to-delegate",
+              "path": "/docs/delegator/how-to-delegate",
+              "sidebar": "delegator"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/faq"
+            },
+            {
+              "id": "faq/delegate-faq",
+              "path": "/docs/faq/delegate-faq",
+              "sidebar": "faqSidebar"
+            },
+            {
+              "id": "faq/general-faq",
+              "path": "/docs/faq/general-faq",
+              "sidebar": "faqSidebar"
+            },
+            {
+              "id": "faq/staking-faq",
+              "path": "/docs/faq/staking-faq",
+              "sidebar": "faqSidebar"
+            },
+            {
+              "id": "faq/technical-faq",
+              "path": "/docs/faq/technical-faq",
+              "sidebar": "faqSidebar"
+            },
+            {
+              "id": "faq/validator-faq",
+              "path": "/docs/faq/validator-faq",
+              "sidebar": "faqSidebar"
+            },
+            {
+              "id": "governance/govern",
+              "path": "/docs/governance/govern",
+              "sidebar": "governanceSidebar"
+            },
+            {
+              "id": "greeting",
+              "path": "/docs/greeting"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "networks/network",
+              "path": "/docs/networks/network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/build-fullnode",
+              "path": "/docs/node/build-fullnode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/build-validator-node",
+              "path": "/docs/node/build-validator-node"
+            },
+            {
+              "id": "node/snapshot",
+              "path": "/docs/node/snapshot",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "oracles/getting-started",
+              "path": "/docs/oracles/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quickstart",
+              "path": "/docs/quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartcontract/deploy-contracts",
+              "path": "/docs/smartcontract/deploy-contracts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartcontract/genesis-contracts",
+              "path": "/docs/smartcontract/genesis-contracts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storage/btfs",
+              "path": "/docs/storage/btfs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storage/ipfs",
+              "path": "/docs/storage/ipfs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "tutorial/build-web3-app",
+              "path": "/docs/tutorial/build-web3-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/quick-migration-guide-for-ethereum-dApp",
+              "path": "/docs/tutorial/quick-migration-guide-for-ethereum-dApp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "validator/build-validator-node",
+              "path": "/docs/validator/build-validator-node",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/change-signer-address",
+              "path": "/docs/validator/change-signer-address"
+            },
+            {
+              "id": "validator/core-components/bttc-layer",
+              "path": "/docs/validator/core-components/bttc-layer",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/core-components/checkpoint",
+              "path": "/docs/validator/core-components/checkpoint",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/core-components/delivery-layer",
+              "path": "/docs/validator/core-components/delivery-layer",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/core-components/derivatives",
+              "path": "/docs/validator/core-components/derivatives"
+            },
+            {
+              "id": "validator/core-components/key-management",
+              "path": "/docs/validator/core-components/key-management",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/core-components/proposer-bonus",
+              "path": "/docs/validator/core-components/proposer-bonus",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/core-components/proposer-producer-selection",
+              "path": "/docs/validator/core-components/proposer-producer-selection",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/core-components/staking",
+              "path": "/docs/validator/core-components/staking"
+            },
+            {
+              "id": "validator/core-components/state-sync-mechanism",
+              "path": "/docs/validator/core-components/state-sync-mechanism",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/core-components/transaction-fees",
+              "path": "/docs/validator/core-components/transaction-fees",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/getting-started",
+              "path": "/docs/validator/getting-started",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/glossary",
+              "path": "/docs/validator/glossary",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/overview",
+              "path": "/docs/validator/overview"
+            },
+            {
+              "id": "validator/port_management",
+              "path": "/docs/validator/port_management",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/responsibilities",
+              "path": "/docs/validator/responsibilities",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/rewards",
+              "path": "/docs/validator/rewards",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/staking",
+              "path": "/docs/validator/staking",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "validator/validator-commission-operations",
+              "path": "/docs/validator/validator-commission-operations",
+              "sidebar": "validatorSidebar"
+            },
+            {
+              "id": "wallet",
+              "path": "/docs/wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/assets",
+              "path": "/docs/category/assets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tokens",
+              "path": "/docs/category/tokens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/nfts",
+              "path": "/docs/category/nfts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/relayer",
+              "path": "/docs/category/relayer",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/quickstart",
+                "label": "Quick Start"
+              }
+            },
+            "validatorSidebar": {
+              "link": {
+                "path": "/docs/validator/getting-started",
+                "label": "Validator Overview"
+              }
+            },
+            "delegator": {
+              "link": {
+                "path": "/docs/delegator/how-to-delegate",
+                "label": "How to Delegate"
+              }
+            },
+            "faqSidebar": {
+              "link": {
+                "path": "/docs/faq/general-faq",
+                "label": "General FAQ"
+              }
+            },
+            "governanceSidebar": {
+              "link": {
+                "path": "/docs/governance/govern",
+                "label": "Governance"
+              }
+            },
+            "contribute": {
+              "link": {
+                "path": "/docs/contribute/guidelines",
+                "label": "Contributor Guidelines"
+              }
+            },
+            "architecture": {
+              "link": {
+                "path": "/docs/architecture/arch",
+                "label": "Architecture"
+              }
+            },
+            "basics": {
+              "link": {
+                "path": "/docs/basics/blockchain-basics/basics-blockchain",
+                "label": "BlockChain"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
